@@ -14,8 +14,6 @@ A standout addition is our movie analysis report 📊, delivering:
 
 This empowers admins to make data-driven decisions and helps users discover trending and top-rated movies! 
 
-The journey sharpened our technical and teamwork skills, offering hands-on experience in building a real-world application from scratch. Presenting MOVIEMINT in our viva session was the perfect finale—an absolute success! 🎉
-
 Grateful for the collaboration, creativity, and support that made this possible. Here’s to building solutions that entertain, inform, and connect! 🙌
 
 
