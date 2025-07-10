@@ -1,3 +1,4 @@
+ .NET framework and C#
 🎬✨ Excited to announce the successful completion of MOVIEMINT—our all-in-one movie ticket booking system built with the .NET framework and C#.
 
 MOVIEMINT brings together a suite of features:
